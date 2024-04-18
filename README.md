@@ -35,8 +35,8 @@ Material UI & Accent Colors & Dynamic Colors (Android 12+) <br/>
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/pradyumantomar/MusicMe/masterscreenshots/01.png) | ![Screenshot 2](https://raw.githubusercontent.com/pradyumantomar/MusicMe/masterscreenshots/02.png) | ![Screenshot 3](https://raw.githubusercontent.com/pradyumantomar/MusicMe/masterscreenshots/03.png) | ![Screenshot 4](https://raw.githubusercontent.com/pradyumantomar/MusicMe/masterscreenshots/04.png) | ![Screenshot 5](https://raw.githubusercontent.com/pradyumantomar/MusicMe/masterscreenshots/05.png) |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| ![Screenshot 1](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/screenshots/01.png) | ![Screenshot 2](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/screenshots/02.png) | ![Screenshot 3](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/screenshots/03.png) | ![Screenshot 4](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/screenshots/04.png) | ![Screenshot 5](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/screenshots/05.png) |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
 ---
 
