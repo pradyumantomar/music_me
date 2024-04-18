@@ -1,0 +1,63 @@
+name: music_app
+description: "Music Streaming application entirely made in Flutter"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.3 <4.0.0"
+
+dependencies:
+  audio_service: ^0.18.13
+  audio_session: ^0.1.19
+  cached_network_image: ^3.3.1
+  change_app_package_name: ^1.1.0
+  dynamic_color: ^1.7.0
+  file_picker: ^8.0.0+1
+  fluentui_system_icons: ^1.1.234
+  flutter:
+    sdk: flutter
+  flutter_flip_card: ^0.0.5
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^13.2.3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  html: ^0.15.4
+  http: ^1.2.1
+  intl: any
+  just_audio: ^0.9.37
+  path_provider: ^2.1.2
+  rename: ^3.0.2
+  rxdart: ^0.27.7
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.2.5
+  youtube_explode_dart: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+  translations_cleaner: ^0.0.5
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/licenses/
+
+  fonts:
+    - family: FiraMono
+      fonts:
+        - asset: fonts/paytone/FiraMono-Medium.ttf
+    - family: FiraSans
+      fonts:
+        - asset: fonts/paytone/FiraSans-Regular.ttf
+    - family: NotoSans
+      fonts:
+        - asset: fonts/paytone/NotoSans-Regular.ttf
+    - family: NotoSansMono
+      fonts:
+        - asset: fonts/paytone/NotoSansMono-Regular.ttf
