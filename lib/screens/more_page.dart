@@ -513,7 +513,7 @@ class MorePage extends StatelessWidget {
             //       ),
             //       onTap: () => {
             //         launchURL(
-            //           Uri.parse('https://ko-fi.com/gokadzev'),
+            //           Uri.parse('https://ko-fi.com/pradyumantomar'),
             //         ),
             //       },
             //     ),

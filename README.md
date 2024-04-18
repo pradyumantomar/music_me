@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://github.com/gokadzev/Musify/raw/master/repository_files/Musify-banner.png" width="100%">
+<img src="https://github.com/pradyumantomar/MusicMe/raw/master/repository_files/MusicMe-banner.png" width="100%">
 
 # MusicMe
 
 Unlock the full potential of music: Stream effortlessly with one app!
 
-[![Stars](https://img.shields.io/github/stars/gokadzev/Musify?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/stargazers)
-[![Forks](https://img.shields.io/github/forks/gokadzev/Musify?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/fork)
-[![GitHub release](https://img.shields.io/github/v/release/gokadzev/Musify?color=D3BEAB)](https://github.com/gokadzev/Musify/releases)
-[![License](https://img.shields.io/github/license/gokadzev/Musify?color=D3BEAB)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/pradyumantomar/MusicMe?style=flat-square&color=D3BEAB)](https://github.com/pradyumantomar/MusicMe/stargazers)
+[![Forks](https://img.shields.io/github/forks/pradyumantomar/MusicMe?style=flat-square&color=D3BEAB)](https://github.com/pradyumantomar/MusicMe/fork)
+[![GitHub release](https://img.shields.io/github/v/release/pradyumantomar/MusicMe?color=D3BEAB)](https://github.com/pradyumantomar/MusicMe/releases)
+[![License](https://img.shields.io/github/license/pradyumantomar/MusicMe?color=D3BEAB)](LICENSE)
 
 ---
 
@@ -35,15 +35,15 @@ Material UI & Accent Colors & Dynamic Colors (Android 12+) <br/>
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Screenshot 1](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/pradyumantomar/MusicMe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
 ## Download
 
-[<img src="https://github.com/gokadzev/Musify/raw/master/repository_files/get-it-on-github.png" alt="Get it on Github" height="80">](https://github.com/gokadzev/Musify/releases/latest)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.gokadzev.musify.fdroid)
+[<img src="https://github.com/pradyumantomar/MusicMe/raw/master/repository_files/get-it-on-github.png" alt="Get it on Github" height="80">](https://github.com/pradyumantomar/MusicMe/releases/latest)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.pradyumantomar.MusicMe.fdroid)
 
 ---
 
@@ -52,7 +52,7 @@ Material UI & Accent Colors & Dynamic Colors (Android 12+) <br/>
 ```
 Copyright © 2024 Valeri Gokadze
 
-Musify is a free software licensed under GPL v3.0
+MusicMe is a free software licensed under GPL v3.0
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
@@ -74,25 +74,25 @@ how to obtain the original software, should clearly STATE ALL CHANGES made and s
 Use of this software under any "non-free" license is NOT permitted.
 ```
 
-See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/master/LICENSE) for more details.
+See the [GNU General Public License](https://github.com/pradyumantomar/MusicMe/blob/master/LICENSE) for more details.
 
 ---
 
 ## Contribute
 
-Contributions are always welcome. Please read our [contributing guidelines](https://github.com/gokadzev/Musify/blob/master/CONTRIBUTING.md) before contributing.
+Contributions are always welcome. Please read our [contributing guidelines](https://github.com/pradyumantomar/MusicMe/blob/master/CONTRIBUTING.md) before contributing.
 
 ---
 
 ## F.A.Q
 
-You can see frequently asked questions and their answers [here](https://github.com/gokadzev/Musify/discussions/340).
+You can see frequently asked questions and their answers [here](https://github.com/pradyumantomar/MusicMe/discussions/340).
 
 ---
 
 ## Credits
 
-[Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
+[MusicMe](https://github.com/Harsh-23/MusicMe) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
 
 <details>
 <summary>Click to show dependencies</summary>
@@ -133,11 +133,11 @@ You can see frequently asked questions and their answers [here](https://github.c
 ## Disclaimer
 
 ```
-Musify does not possess or maintain any association with the songs and other content accessible through the app.
+MusicMe does not possess or maintain any association with the songs and other content accessible through the app.
 All songs and other content are the property of their respective owners and are safeguarded by copyright law.
-Musify holds no liability for any copyright infringement or other violations of intellectual property rights
+MusicMe holds no liability for any copyright infringement or other violations of intellectual property rights
 that may arise from the use of the songs and other content accessible through the app.
-Musify employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
+MusicMe employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
 any other parties resulting from the utilization of the songs and other content through the third-party plugins.
 By using the app, you consent to utilizing the songs and other content exclusively for personal,
 non-commercial purposes and in accordance with all applicable laws and regulations.
@@ -147,7 +147,7 @@ non-commercial purposes and in accordance with all applicable laws and regulatio
 
 ## Do you like the project? Sponsor it!
 
-  <a href="https://ko-fi.com/gokadzev">
+  <a href="https://ko-fi.com/pradyumantomar">
     <img width="30%" src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke.png" alt="ko-fi">
   </a>
 
